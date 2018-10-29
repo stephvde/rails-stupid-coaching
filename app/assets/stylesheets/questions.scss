@@ -1,0 +1,44 @@
+h1 {
+  color: darkgrey;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  color: RGB(100, 100, 100);
+  font-family: Helvetica;
+  margin-left: 20px;
+}
+
+input {
+  padding: 20px;
+  margin-top: 30px;
+}
+
+#message {
+  width: 350px;
+  font-size: 20px;
+  height: 20px;
+  margin-left: 250px;
+  border-radius: 7px;
+}
+
+#btn {
+  background-color: #2b3e50;
+  border-radius: 15px;
+  color: white;
+  width: 150px;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+#btn:hover {
+  background-color: lightgrey;
+  color: RGB(80, 80, 80);
+}
+
+
+
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
